@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'm **Mert / Yiğit**, an IT student and a mama's boy. 
+- I'm **Mert / Yiğit**, an IT student. 
 <!--
 **SirYido/Siryido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
